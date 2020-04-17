@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Carl-Fredrik Nyberg Brodda, a second-year PhD student at the University of East Anglia. My primary research interests include (combinatorial/geometric) (group/semigroup) theory. I did a BSc at Uppsala University in 2016, and an MSc at the University of St Andrews in 2017. 
+My name is Carl-Fredrik Nyberg Brodda, and I am a second-year PhD student at the University of East Anglia. My primary research interests include (combinatorial/geometric) (group/semigroup) theory. I did a BSc at Uppsala University in 2016, and an MSc at the University of St Andrews in 2017. 
 
 ### More Information
 
