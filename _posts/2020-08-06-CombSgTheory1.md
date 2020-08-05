@@ -12,3 +12,7 @@ The name <em>combinatorial group theory</em>, which even has its own [Wikipedia 
 There was however a clique of this development which was not driven by topology. A Norwegian mathematician by the name of Axel Thue (1863-1922), an academic grandson of Sophus Lie and academic father of Thoralf Skolem, made a series of remarkable contributions, seemingly out of thin air, to the area that would be later known as combinatorial semigroup theory. This first post, then, will expose some of his work in a modern framework. Importantly, however, I will not make a grand effort to modernise his papers or elaborate on his arguments in a modern style. Rather, I will introduce <em>rewriting systems</em> or, as they are commonly called, <em>Thue systems</em>, and use them to introduce how much more natural the questions of combinatorial semigroup theory is compared to its group counterpart. 
 
 We begin with some definitions. An <em>alphabet</em> <strong>A</strong> is simply any finite set of symbols at our disposal. Since the set is finite, we will generally write it <strong>A = {a, b, c, ...}</strong>.
+
+a given wire happens to be carrying "$$\lvert 0\rangle$$."
+By that we mean that it's carrying the linear combination
+$$\begin{psmallmatrix} 1 \\ 0 \end{psmallmatrix}$$
